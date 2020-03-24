@@ -12,4 +12,7 @@ export class PlaceDetailPage implements OnInit {
   ngOnInit() {
   }
 
+  onBookPlace() {
+    
+  }
 }
